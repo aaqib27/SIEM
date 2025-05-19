@@ -56,7 +56,7 @@ In this demo, the script facilitates real-time observation of RDP brute force at
 <br />
 <br />
 7. Setting up Map in Sentinel with Latitude and Longitude:  <br/>
-<img src="https://i.imgur.com/CxyVZ6s.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
+<img src="https://i.imgur.com/t6TaHyc.png" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
 8. Report of Failed RDP Attacks on World Map in first few hours:  <br/>
