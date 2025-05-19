@@ -32,11 +32,11 @@ In this demo, the script facilitates real-time observation of RDP brute force at
 <p align="center">
 <br />
 1. Launching the honeypot-vm Virtual Machine: <br/>
-<img src="https://i.imgur.com/opALJoi.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
+<img src="https://i.imgur.com/U7QJkPw.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
 2. Disable Windows Firewall to make the honeypot-vm vulnerable to attackers:  <br/>
-<img src="https://i.imgur.com/U7QJkPw.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
+<img src="https://i.imgur.com/CMP1Qwy.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
 3. Using Attacker IP Address from Event Viewer in lookup tool to get Geolocation Data:  <br/>
@@ -56,7 +56,7 @@ In this demo, the script facilitates real-time observation of RDP brute force at
 <br />
 <br />
 7. Setting up Map in Sentinel with Latitude and Longitude:  <br/>
-<img src="https://i.imgur.com/U7QJkPw.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
+<img src="https://i.imgur.com/CxyVZ6s.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
 8. Report of Failed RDP Attacks on World Map in first few hours:  <br/>
