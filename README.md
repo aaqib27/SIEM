@@ -36,7 +36,7 @@ In this demo, the script facilitates real-time observation of RDP brute force at
 <br />
 <br />
 2. Disable Windows Firewall to make the honeypot-vm vulnerable to attackers:  <br/>
-<img src="https://i.imgur.com/t6TaHyc.png" height="80%" width="80%" alt="Active Directory Administration Steps"/>
+<img src="https://i.imgur.com/U7QJkPw.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
 3. Using Attacker IP Address from Event Viewer in lookup tool to get Geolocation Data:  <br/>
